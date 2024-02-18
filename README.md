@@ -1,4 +1,4 @@
-# GreenhousePlant-Range
+# Detection of Optimal Range for Greenhouse Plant Growth
 Overview
 
 Our project focuses on enhancing greenhouse plant growth by developing a program for an Edge AI device. The primary objective is to enable the device to autonomously assess whether the current environmental conditions within the greenhouse are conducive to nurturing plant growth. By merging artificial intelligence with embedded systems, we aim to address the intricate requirements of modern agriculture using cutting-edge technology.
